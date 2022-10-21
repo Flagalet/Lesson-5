@@ -1,0 +1,15 @@
+C:\Users\Mvideo\Desktop\Учеба\Новая папка\GB\Lesson-5\Задача со звездочкой\obj\Debug\net6.0\Задача со звездочкой.csproj.AssemblyReference.cache
+C:\Users\Mvideo\Desktop\Учеба\Новая папка\GB\Lesson-5\Задача со звездочкой\obj\Debug\net6.0\Задача со звездочкой.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mvideo\Desktop\Учеба\Новая папка\GB\Lesson-5\Задача со звездочкой\obj\Debug\net6.0\Задача со звездочкой.AssemblyInfoInputs.cache
+C:\Users\Mvideo\Desktop\Учеба\Новая папка\GB\Lesson-5\Задача со звездочкой\obj\Debug\net6.0\Задача со звездочкой.AssemblyInfo.cs
+C:\Users\Mvideo\Desktop\Учеба\Новая папка\GB\Lesson-5\Задача со звездочкой\obj\Debug\net6.0\Задача со звездочкой.csproj.CoreCompileInputs.cache
+C:\Users\Mvideo\Desktop\Учеба\Новая папка\GB\Lesson-5\Задача со звездочкой\bin\Debug\net6.0\Задача со звездочкой.exe
+C:\Users\Mvideo\Desktop\Учеба\Новая папка\GB\Lesson-5\Задача со звездочкой\bin\Debug\net6.0\Задача со звездочкой.deps.json
+C:\Users\Mvideo\Desktop\Учеба\Новая папка\GB\Lesson-5\Задача со звездочкой\bin\Debug\net6.0\Задача со звездочкой.runtimeconfig.json
+C:\Users\Mvideo\Desktop\Учеба\Новая папка\GB\Lesson-5\Задача со звездочкой\bin\Debug\net6.0\Задача со звездочкой.dll
+C:\Users\Mvideo\Desktop\Учеба\Новая папка\GB\Lesson-5\Задача со звездочкой\bin\Debug\net6.0\Задача со звездочкой.pdb
+C:\Users\Mvideo\Desktop\Учеба\Новая папка\GB\Lesson-5\Задача со звездочкой\obj\Debug\net6.0\Задача со звездочкой.dll
+C:\Users\Mvideo\Desktop\Учеба\Новая папка\GB\Lesson-5\Задача со звездочкой\obj\Debug\net6.0\refint\Задача со звездочкой.dll
+C:\Users\Mvideo\Desktop\Учеба\Новая папка\GB\Lesson-5\Задача со звездочкой\obj\Debug\net6.0\Задача со звездочкой.pdb
+C:\Users\Mvideo\Desktop\Учеба\Новая папка\GB\Lesson-5\Задача со звездочкой\obj\Debug\net6.0\Задача со звездочкой.genruntimeconfig.cache
+C:\Users\Mvideo\Desktop\Учеба\Новая папка\GB\Lesson-5\Задача со звездочкой\obj\Debug\net6.0\ref\Задача со звездочкой.dll
